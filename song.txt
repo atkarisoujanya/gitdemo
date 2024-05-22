@@ -2,3 +2,4 @@ The ship glides gently on the waves
 As day turns into night
 
 new line1
+new line2
